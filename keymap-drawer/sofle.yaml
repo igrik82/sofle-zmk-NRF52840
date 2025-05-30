@@ -84,7 +84,7 @@ layers:
   - {t: ▽, type: trans}
   - PG UP
   - {t: ▽, type: trans}
-  - UP
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '0'
   - {t: ▽, type: trans}
@@ -94,9 +94,9 @@ layers:
   - LSHFT
   - {t: ▽, type: trans}
   - CLCK
-  - PG DN
   - LEFT
   - DOWN
+  - UP
   - RIGHT
   - DEL
   - BSPC
